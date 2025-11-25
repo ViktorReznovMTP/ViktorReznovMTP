@@ -10,7 +10,7 @@
 
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=600&lines=Hello,+I'm+Galuh Maheswara;Full+Stack+Developer;Code+With+Purpose;Think+Deeply,+Build+Boldly" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=600&lines=Hello,+I'm+Galuh;Full+Stack+Developer;Code+With+Purpose;Think+Deeply,+Build+Boldly" alt="Typing SVG" />
 </div>
 
 <br />
