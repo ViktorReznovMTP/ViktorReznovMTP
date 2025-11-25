@@ -91,9 +91,13 @@ I'm a **Junior Web Developer** passionate about building scalable, user-first we
 
 <div align="center">
 
-| Stats | Languages |
-|-------|-----------|
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViktorReznovMTP&theme=react-dark&hide_border=true&date_format=j%20M%5B%20Y%5D) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorReznovMTP&layout=compact&theme=react-dark&hide_border=true&langs_count=6) |
+| Stats | Streak & Contribution |
+|-------|----------------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=ViktorReznovMTP&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&hide_title=false" alt="GitHub Stats" width="100%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViktorReznovMTP&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%"> |
+
+| Top Languages | Contribution Graph |
+|---------------|-------------------|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorReznovMTP&layout=compact&theme=react&hide_border=true&langs_count=8&hide=html,css,scss" alt="Top Languages" width="100%"> | <img src="https://activity-graph.herokuapp.com/graph?username=ViktorReznovMTP&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" width="100%"> |
 
 </div>
 
@@ -101,8 +105,9 @@ I'm a **Junior Web Developer** passionate about building scalable, user-first we
 
 ## 💻 My Dev Setup (2025)
 
-- 💻 **Device**: MacBook Pro M2 / ASUS ROG (dual setup)  
-- 🖥️ **OS**: macOS Sonoma + Windows 11 (dual-boot)  
+- 💻 **Device**: Lenovo IdeaPad G40-70
+- 🖥️ **OS**: Windows 10 Pro 64bit
+- 🖥 **RAM** : 12gb of RAM
 - 🧑‍💻 **IDE**: VS Code + PhpStorm  
 - 📦 **Terminal**: Warp + Oh My Zsh (agnoster theme)  
 - 🎧 **Focus Sound**: Lo-fi beats / Cyberpunk synth  
