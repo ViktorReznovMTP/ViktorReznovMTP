@@ -25,7 +25,7 @@
 
 <!-- Animated Divider -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.icegif.com%2Fhacker-3%2F&ved=0CBQQjRxqFwoTCICS7PXcjZEDFQAAAAAdAAAAABAI&opi=89978449" width="100%" />
+  <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-184.gif" width="100%" />
   <!-- Ganti URL di atas dengan GIF divider maskulin (lihat rekomendasi di bawah!) -->
 </p>
 
