@@ -9,7 +9,7 @@
 -->
 
 <!-- Animated Header -->
-<div align="center">
+<div align="center" color="#ff0400">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=600&lines=Hello,+I'm+Galuh;Full+Stack+Developer;Code+With+Purpose;Think+Deeply,+Build+Boldly;Try+Every+Way,+To+Get+Success" alt="Typing SVG" />
 </div>
 
