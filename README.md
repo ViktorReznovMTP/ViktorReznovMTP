@@ -1,89 +1,144 @@
-<!-- 
-  ✨ README by Viktor Galuh MT. Panditha Reznov
-  Dark • Clean • Minimalist • Tech-driven
--->
-
+iktor Galuh MT. Panditha Reznov
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8U9K4DZfM2c/giphy.gif" width="100" alt="Waving Cat"/>
-  <h1>👋 Hi, I'm Viktor Galuh MT. Panditha Reznov</h1>
-  <p><em>Junior Web Developer (Frontend & Backend) | Dark-themed Coder | Always Learning</em></p>
-  <p>Building functional & aesthetic web apps with clean code and cleaner UI.</p>
+
+https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+> whoami
+bash
+
+Junior Web Developer | Dark Theme Enthusiast | Code Alchemist
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=00ff00&size=25&center=true&vCenter=true&width=600&height=70&lines=Building+Digital+Experiences+With+Precision;Clean+Code+•+Dark+Interfaces+•+Real+Solutions" alt="Typing SVG" /></div>
+🎯 // Mission Statement
+javascript
+
+const developer = {
+  code: ["PHP", "JavaScript", "HTML", "CSS", "SQL"],
+  tools: ["Laravel", "Bootstrap", "MySQL", "Git"],
+  architecture: ["MVC", "RESTful APIs", "Responsive Design"],
+  philosophy: "Build it right, or don't build it at all",
+  currentFocus: "Mastering Laravel Ecosystem & OOP Principles",
+  status: "AlwaysLearning()"
+};
+
+⚡ Tech Arsenal
+Frontend Operations
+
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+Backend Systems
+
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+Development Environment
+
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+🚀 Active Missions
+[CLASSIFIED] SkyAntara Airlines
+
+    Airline Ticket Reservation System
+
+bash
+
+Status: OPERATIONAL
+Tech Stack: Laravel • MySQL • Bootstrap • Blade
+Access: https://github.com/ViktorReznovMTP/airline
+
+[CONFIDENTIAL] SuaraKita Voting System
+
+    School Election Quick-Count Platform
+
+bash
+
+Status: DEPLOYED  
+Tech Stack: PHP • MySQL • JavaScript • CSS3
+Access: https://github.com/hanakhaii/SuaraKita
+
+[RESTRICTED] ArcadiaBook Management
+
+    Library Management System
+
+bash
+
+Status: ACTIVE
+Tech Stack: PHP • MySQL • HTML5 • CSS3
+Access: https://github.com/hanakhaii/arcadiabooks
+
+📊 System Analytics
+<div align="center">
+Code Activity Matrix
+
+https://github-readme-stats.vercel.app/api?username=ViktorReznovMTP&show_icons=true&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff
+https://github-readme-streak-stats.herokuapp.com/?user=ViktorReznovMTP&theme=react-dark&hide_border=true&background=0D1117&stroke=00ff00&fire=00ff00&ring=00ff00&currStreakLabel=00ff00
+Language Deployment
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorReznovMTP&layout=compact&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff
+Operation Timeline
+
+https://github-readme-activity-graph.vercel.app/graph?username=ViktorReznovMTP&custom_title=Viktor's%2520Code%2520Journey&bg_color=0D1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true&radius=8
 </div>
+🎮 Developer Console
+bash
 
----
+# Current Session
+$ git status
+On branch main
+Working tree clean
 
-## 🖤 About Me
+$ node current-projects.js
+→ Building scalable web applications
+→ Learning advanced Laravel patterns
+→ Mastering API development
 
-- 💻 Junior Web Developer with strong curiosity and passion for building real-world web applications.
-- ⚡ I learn by doing — exploring new tools, frameworks, and solving problems through hands-on projects.
-- 🖋️ Detail-oriented, minimalist, and obsessed with clean architecture & dark interfaces.
-- 📚 Currently learning: **Laravel**, **OOP PHP**, **API Development**, and **UI/UX Fundamentals**.
+$ ./deploy-new-skills.sh
+Deploying: Advanced OOP, System Architecture, UI/UX Principles
 
-> “I build things that solve real problems — and help me grow as a developer.”
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=php,mysql,laravel" />
-
-### Tools & Environment
-<img src="https://skillicons.dev/icons?i=vscode,figma,git,github" />
-
----
-
-## 🚀 Featured Projects
-
-Here are some recent projects I’ve built to sharpen my skills:
-
-🔹 **[SkyAntara](https://github.com/ViktorReznovMTP/airline)** — Web-based Airline Ticket Reservation  
-`Laravel • Blade • SQL • Bootstrap`
-
-🔹 **[SuaraKita](https://github.com/hanakhaii/SuaraKita)** — Web quick-count voting system for school election  
-`HTML • CSS • JS • PHP • MySQL`
-
-🔹 **[ArcadiaBook](https://github.com/hanakhaii/arcadiabooks)** — Library Book Management Website  
-`HTML • CSS • JS • PHP • MySQL`
-
-🔹 *More projects coming soon...*
-
-> I don’t just code — I build solutions.
-
----
-
-## 📊 GitHub Stats
-
+📡 Establish Connection
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViktorReznovMTP&show_icons=true&theme=react-dark&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViktorReznovMTP&theme=react-dark&hide_border=false" />
-  <br/>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ViktorReznovMTP&bg_color=000000&color=ffffff&line=00ff00&point=00ff00&area=true&hide_border=true&custom_title=My%20Code%20Journey" />
+Transmission Channels
+
+https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=ENCRYPTED%2520MAIL
+https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=PROFESSIONAL%2520NETWORK
+https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=DIGITAL%2520FOOTPRINT
 </div>
+🔒 System Status
+rust
 
----
+// SYSTEM DIAGNOSTICS
+struct DeveloperStatus {
+    availability: Status::AvailableForCollaboration,
+    learning_curve: Status::Steep,
+    project_capacity: Status::AcceptingChallenges,
+    coffee_level: Status::Optimal,
+    last_update: Timestamp::Now,
+}
 
-## 📈 Languages Used
+impl DeveloperStatus {
+    fn new() -> Self {
+        Self {
+            availability: Status::AvailableForCollaboration,
+            learning_curve: Status::Steep,
+            project_capacity: Status::AcceptingChallenges,
+            coffee_level: Status::Optimal,
+            last_update: Timestamp::Now,
+        }
+    }
+    
+    fn collaborate(&self) -> ProjectResult {
+        ProjectResult::Success
+    }
+}
 
 <div align="center">
-  <img height="150em" src="https://github-readme-lang-top-10.vercel.app/api/top-langs/?username=ViktorReznovMTP&layout=compact&theme=react-dark&size_weight=0.5&count_weight=0.5" />
-</div>
 
----
+https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif
+"Code doesn't lie. Comments sometimes do." - Ron Jeffries
 
-## 📬 Let’s Connect!
+© 2024 Viktor G.M.T.P.R. | SYSTEMS ONLINE
 
-<div align="center">
-  <a href="mailto:galuhmtp1606@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/galuh-maheswara-tahta-panditha-31aa15340/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/galu_h16"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
-
----
-
-<div align="center">
-  <p><em>Minimal. Clean. Purpose-driven. — Viktor G.M.T.P.R.</em></p>
+https://komarev.com/ghpvc/?username=ViktorReznovMTP&color=00ff00&style=flat-square&label=TERMINAL+ACCESSES
 </div>
