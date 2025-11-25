@@ -25,7 +25,7 @@
 
 <!-- Animated Divider -->
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-184.gif" width="100%" />
+  <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-184.gif" width="50%" />
   <!-- Ganti URL di atas dengan GIF divider maskulin (lihat rekomendasi di bawah!) -->
 </p>
 
