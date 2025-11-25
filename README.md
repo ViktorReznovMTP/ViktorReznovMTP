@@ -16,9 +16,7 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Full Stack Developer-0D1117?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Junior Web Developer-0D1117?style=flat-square&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/📍 Depok, ID-0D1117?style=flat-square&logo=mapbox&logoColor=4EBAFF" />
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.icegif.com%2Fhacker-3%2F&ved=0CBQQjRxqFwoTCICS7PXcjZEDFQAAAAAdAAAAABAI&opi=89978449" />
 </div>
 
 <br />
