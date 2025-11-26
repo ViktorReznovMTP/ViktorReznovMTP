@@ -25,7 +25,7 @@
 
 <!-- Animated Divider -->
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyvETp3YJDi6QC-Ouo_CgPBLWhcmdWd7TsCg&s" width="30%" />
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="30%" />
   <!-- Ganti URL di atas dengan GIF divider maskulin (lihat rekomendasi di bawah!) -->
 </p>
 
