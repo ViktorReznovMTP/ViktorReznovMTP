@@ -35,7 +35,7 @@
 
 I'm a **Junior Web Developer** passionate about building scalable, user-first web applications — with a focus on **clean architecture**, **performance**, and **purposeful UX**.
 
-- 🔧 Daily experiments in: **Laravel + React + DevOps**  
+- 🔧 Daily experiments in: **Laravel, SQL, SQLite**  
 - 📈 Advocate for readable, maintainable, and *testable* code  
 - 🧠 Powered by curiosity, fueled by coffee ☕  
 - 🗺️ Based in **Depok, West Java — Indonesia**
